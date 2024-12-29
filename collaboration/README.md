@@ -1,5 +1,4 @@
-
-TEAMS NORMS
+# TEAMS NORMS
 
 1.Hold regular informal meetings to Maintain transparency about
 progress and challenges through positive and constructive feedback,
