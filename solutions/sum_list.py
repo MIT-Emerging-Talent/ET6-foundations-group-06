@@ -65,6 +65,7 @@ def sum_list(numbers: List[float]) -> float:
     """
 
     # Defensive assertion (checks exactly one assumption: item must be numeric)
+    for item in numbers:
         if not isinstance(item, (int, float)):
             raise TypeError("All items must be numeric (int or float).")
 
