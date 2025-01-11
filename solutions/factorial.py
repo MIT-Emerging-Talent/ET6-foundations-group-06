@@ -29,6 +29,8 @@ Doctests:
     120
     >>> factorial(3)
     6
+    >>> factorial(6)
+    720  # <--- ADDED EXAMPLE HERE
 """
 
 
@@ -58,6 +60,8 @@ def factorial(n: int) -> int:
       2
       >>> factorial(4)
       24
+      >>> factorial(6)
+      720  # <--- ADDED DOCTEST HERE
     """
 
     # Defensive assertion: check only "n >= 0"
