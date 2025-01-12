@@ -1,4 +1,3 @@
-
 # Retrospective
 
 ## Stop Doing
@@ -33,7 +32,9 @@
   scheduling conflicts.  
 - GitHub workflows and CI/CD checks are critical components that require
   attention and troubleshooting.
----
+
+<!-- Blank line after the last list item to satisfy MD032 -->
+
 ## Strategy vs. Board
 
 ### What parts of your plan went as expected?
