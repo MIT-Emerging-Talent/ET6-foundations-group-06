@@ -52,3 +52,5 @@
 - Develop the skill of writing clear and descriptive docstrings.
 - Understand and apply TDD principles.
 - Writing unit tests using Python’s unittest or pytest.
+
+<!--This is the end of the learning goals-->
