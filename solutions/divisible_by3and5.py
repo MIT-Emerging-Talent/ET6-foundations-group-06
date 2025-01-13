@@ -13,16 +13,23 @@ Created on 01/12/2025
 @author: Deni Guchiev
 """
 
-def divisible_by3and5(num):
+def divisible_by_3and5(num):
     """
-    Finds numbers smaller than `num` that are divisible by 3 and 5.
+    #Finds numbers smaller than `num` that are divisible by 3 and 5.
 
-    Parameters:
-        num (int): The upper limit to check for divisibility.
+    #Parameters: num (int): The upper limit to check for divisibility.
 
-    Returns:
-        list: A list of numbers divisible by 3 and 5.
+    #Returns: list: A list of numbers divisible by 3 and 5.
+
+    #Raises:
+        #TypeError: If `num` is not an integer.
+        #ValueError: If `num` is a negative integer.
     """
+    if not isinstance(num, int):
+        raise TypeError("Input must be an integer.")
+    if num < 0:
+        raise ValueError("Input must be a non-negative integer.")
+
     result = []
     for i in range(num):
         if i % 3 == 0 and i % 5 == 0:
