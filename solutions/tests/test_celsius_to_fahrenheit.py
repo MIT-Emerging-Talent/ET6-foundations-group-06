@@ -3,8 +3,6 @@
 
 import unittest
 
-from ..celsius_to_fahrenheit import celsius_to_fahrenheit
-
 # Function to test
 def celsius_to_fahrenheit(celsius):
     """
