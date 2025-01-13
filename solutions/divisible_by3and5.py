@@ -13,7 +13,7 @@ Created on 01/12/2025
 @author: Deni Guchiev
 """
 
-def divisible_by_3and5(num):
+def divisible_by3and5(num):
     """
     Finds numbers smaller than `num` that are divisible by 3 and 5.
 
@@ -39,14 +39,14 @@ if __name__ == "__main__":
     # 3. Import the function into your Python script:
     #        from script_name import divisible_by_3and5
     # 4. Call the function with a positive integer argument:
-    #        result = divisible_by_3and5(50)
+    #        result = divisible_by3and5(50)
     #        print(result)
 
     try:
         num = int(input("Enter your number: "))
         if num < 0:
             raise ValueError("Input must be a non-negative integer.")
-        result = divisible_by_3and5(num)
+        result = divisible_by3and5(num)
         print(result)
     except ValueError as e:
         print(f"Invalid input: {e}")
