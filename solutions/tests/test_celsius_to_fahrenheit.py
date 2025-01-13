@@ -3,8 +3,7 @@
 
 import unittest
 
-from celsius_to_fahrenheit import celsius_to_fahrenheit
-
+from solutions.celsius_to_fahrenheit import celsius_to_fahrenheit
 
 class TestCelsiusToFahrenheit(unittest.TestCase):
     def test_positive_temperature(self):
