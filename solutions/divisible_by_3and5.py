@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-A module to find all numbers smaller than a given input number
+A module to find all numbers smaller than a given input numbe
 that are divisible by both 3 and 5.
 
 Module contents:
