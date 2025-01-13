@@ -4,11 +4,6 @@
 """
 A module to convert temperature from Celsius to Fahrenheit.
 
-How to Use:
-1. Run this script in a Python environment.
-2. Enter the temperature in Celsius when prompted.
-3. The script will display the equivalent temperature in Fahrenheit.
-
 Formula:
     Fahrenheit = (Celsius * 9 / 5) + 32
 
