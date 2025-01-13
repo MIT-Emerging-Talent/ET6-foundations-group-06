@@ -8,7 +8,7 @@ Unit tests for the Math Power program.
 
 import unittest
 
-from solutions.math_power import math_power
+from math_power import math_power
 
 
 class TestMathPower(unittest.TestCase):
