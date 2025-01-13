@@ -5,19 +5,6 @@ import unittest
 
 from celsius_to_fahrenheit import celsius_to_fahrenheit
 
-# Function to test
-def celsius_to_fahrenheit(celsius):
-    """
-    Convert Celsius to Fahrenheit.
-
-    Parameters:
-        celsius (float): Temperature in Celsius.
-
-    Returns:
-        float: Temperature in Fahrenheit.
-    """
-    return celsius * 9 / 5 + 32
-
 
 class TestCelsiusToFahrenheit(unittest.TestCase):
     def test_positive_temperature(self):
