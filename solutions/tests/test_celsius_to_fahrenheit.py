@@ -3,7 +3,7 @@
 
 import unittest
 
-from solutions.celsius_to_fahrenheit import celsius_to_fahrenheit
+from celsius_to_fahrenheit import celsius_to_fahrenheit
 
 # Function to test
 def celsius_to_fahrenheit(celsius):
