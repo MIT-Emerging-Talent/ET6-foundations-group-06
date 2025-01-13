@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import unittest
-from solutions.divisible_by_3and5.py import divisible_by_3and5.py  
+from solutions.divisible_by_3and5 import divisible_by_3and5 
 
 class TestDivisibleBy3And5(unittest.TestCase):
     def test_positive_case(self):
