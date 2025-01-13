@@ -50,6 +50,7 @@ ______________________________________________________________________
 | Maria Cedeño  |  3-5pm ETZ|  3-5pm ETZ|  3-5pm ETZ|  3-5pm ETZ|  3-5pm ETZ| not available  | not available  |
 | Mariia Ermishina| 2-12pm ETZ| 2-12pm ETZ| 2-12pm ETZ| 2-12pm ETZ| 2-12pm ETZ| 2-12pm ETZ| 2-12pm ETZ|
 | Sahar Omer| 7pm-12am  EST | 7pm-2am  EST | 7pm-2am  EST |7pm-2am  EST|7pm-2am  EST|7pm-2am  EST|7pm-2am  EST|
+| Deni Guchiev| 7pm-10pm EST | 7pm-10pm EST | 7pm-10pm EST | 7pm-10pm EST | 7pm-10pm EST| 7pm-12pm EST| 7pm-12pm EST|
 
 ### How many hours everyone has per day
 
@@ -61,6 +62,7 @@ ______________________________________________________________________
 | Maria Cedeño  | 4-5 hours                    | Available Mon-Fri; Zoom 3-5 pm        |
 | Mariia Ermishina| 3-4 hours          | Available 2-12 pm ETZ  |
 | Sahar         | 4-5 hours                    | Available 7pm-12am EST                      |
+| Deni          | 3-5 hours                    | Was out due complicated pneumonia           |
 
 ## Asking for Help
 

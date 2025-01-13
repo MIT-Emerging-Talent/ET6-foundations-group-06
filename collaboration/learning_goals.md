@@ -53,4 +53,11 @@
 - Understand and apply TDD principles.
 - Writing unit tests using Python’s unittest or pytest.
 
+### Deni Guchiev **[(Gmail)](<mailto:deniguchiev@gmail.com>)**
+
+- Improve skilss in time management and task planning
+- Master repository management and writing compact documentation
+- Increase group work activity and feedback
+- Ace python and discrete mathematics
+
 <!--This is the end of the learning goals-->
